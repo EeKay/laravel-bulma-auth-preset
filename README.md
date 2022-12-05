@@ -7,7 +7,7 @@ Laravel 8.x Bulma Authentication Preset
 
 Bulma CSS Framework authentication scaffolding for Laravel 8.x (for Laravel 7.x use 1.3 branch)
 
-## Laravel 8.x Bulma authentication preset
+## Laravel 9.x Bulma authentication preset
 
 - Login form
 - Password confirm form
