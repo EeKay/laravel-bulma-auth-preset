@@ -14,7 +14,7 @@
   ],
   "require": {
     "php": "^7.3|^8.0",
-    "laravel/framework": "^9.19",
+    "laravel/framework": "^10.0",
     "laravel/ui": "^4.0"
   },
   "autoload": {
