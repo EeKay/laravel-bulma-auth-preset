@@ -1,5 +1,5 @@
 {
-  "name": "blezdubien/laravel-bulma-auth-preset",
+  "name": "eekay/laravel-bulma-auth-preset",
   "version": "1.4.0",
   "description": "Bulma Authentication Preset For Laravel",
   "keywords": ["laravel", "preset", "bulma"],
